@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--String Arrays for Calculate Exchange Fragment -->
+    <string-array name="exchange_countries_array">
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>USD</item>
+    </string-array>
+    <string-array name="exchange_currency_symbol_array">
+        <item>€</item>
+        <item>£</item>
+        <item>$</item>
+    </string-array>
+
+</resources>

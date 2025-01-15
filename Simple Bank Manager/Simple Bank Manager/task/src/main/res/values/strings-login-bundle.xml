@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Strings for adding data to login bundle -->
+    <string name="username">username</string>
+    <string name="password">password</string>
+</resources>

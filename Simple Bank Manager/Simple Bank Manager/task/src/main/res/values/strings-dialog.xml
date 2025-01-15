@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dialog Title -->
+    <string name="pay_bill_title_bill_info">Bill info</string>
+    <string name="pay_bill_title_error">Error</string>
+
+    <!-- Dialog Buttons -->
+    <string name="pay_bill_confirm">confirm</string>
+    <string name="pay_bill_cancel">cancel</string>
+
+    <!-- Keys from Pay Bill Fragment bundle -->
+    <string name="pay_bill_key_bill_info">billInfo</string>
+    <string name="pay_bill_key_bill_code">billCode</string>
+    <string name="pay_bill_key_bill_amount">billAmount</string>
+
+    <!-- Dialog Fragment Result Bundle -->
+    <string name="pay_bill_request_key">requestKey</string>
+    <string name="pay_bill_result">result</string>
+
+    <!-- Dialog Messages -->
+    <string name="pay_bill_message_info">Name: %1$s\nBillCode: %2$s\nAmount: \$%3$.2f</string>
+    <string name="pay_bill_message_not_enough_funds">Not enough funds</string>
+    <string name="pay_bill_message_wrong_code">Wrong code</string>
+</resources>

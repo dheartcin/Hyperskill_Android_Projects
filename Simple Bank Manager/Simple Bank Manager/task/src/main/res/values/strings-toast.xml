@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Toast Messages for Login Fragment -->
+    <string name="login_success_message">logged in</string>
+    <string name="login_fail_message">invalid credentials</string>
+
+    <!-- Toast Messages for Calculate Exchange Fragment -->
+    <string name="exchange_toast_spinner_same_selection">Cannot convert to same currency</string>"
+    <string name="exchange_toast_no_amount">Enter amount</string>
+
+    <!-- Toast Messages for Transfer Funds Fragment -->
+    <string name="error_not_enough_funds">Not enough funds to transfer \$%1.2f</string>
+    <string name="success_transfer">Transferred \$%1$.2f to account %2$s</string>
+
+    <!-- Toast Messages for Pay Bill Fragment -->
+    <string name="pay_bill_successful">Payment for bill %1$s, was successful</string>
+
+</resources>

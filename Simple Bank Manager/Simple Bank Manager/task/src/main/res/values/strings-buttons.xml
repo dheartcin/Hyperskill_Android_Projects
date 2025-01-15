@@ -1,0 +1,20 @@
+<resources>
+    <!-- Button in Login Fragment -->
+    <string name="button_login">log in</string>
+
+    <!-- Button in User Menu Fragment -->
+    <string name="viewBalance">view balance</string>
+    <string name="transfer">transfer funds</string>
+    <string name="exchange">calculate exchange</string>
+    <string name="pay">pay bills</string>
+
+    <!-- Button in Calculate Exchange Menu Fragment -->
+    <string name="exchange_button_calculate">calculate</string>
+
+    <!-- Button in Calculate Transfer Funds Fragment -->
+    <string name="button_transfer">Transfer</string>
+
+    <!-- Button in Calculate Pay Bills Fragment -->
+    <string name="pay_button_show_bill_info">Show bill info</string>
+
+</resources>

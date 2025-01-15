@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Edit Text in Login Fragment -->
+    <string name="hint_username">username</string>
+    <string name="hint_password">password</string>
+
+    <!-- Edit Text in Calculate Exchange Fragment -->
+    <string name="exchange_hint_amount">Enter amount</string>
+
+    <!-- Edit Text in Calculate Transfer Funds Fragment -->
+    <string name="hint_accountNumber">Account number</string>
+    <string name="hint_enterAmount">Enter amount</string>
+    <string name="error_invalid_account_number">Invalid account number</string>
+    <string name="error_invalid_amount">Invalid amount</string>
+
+    <!-- Edit Text in Calculate Pay Bills Fragment -->
+    <string name="pay_edit_text_enter_code">Enter code</string>
+</resources>

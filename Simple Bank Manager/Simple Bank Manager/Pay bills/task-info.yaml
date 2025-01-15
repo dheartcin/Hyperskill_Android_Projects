@@ -1,0 +1,198 @@
+type: edu
+files:
+  - name: src/main/java/org/hyperskill/simplebankmanager/MainActivity.kt
+    visible: true
+    learner_created: false
+  - name: src/main/res/drawable/ic_launcher_background.xml
+    visible: true
+    learner_created: false
+  - name: src/main/res/drawable-v24/ic_launcher_foreground.xml
+    visible: true
+    learner_created: false
+  - name: src/main/res/layout/activity_main.xml
+    visible: true
+    learner_created: false
+  - name: src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+    visible: true
+    learner_created: false
+  - name: src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+    visible: true
+    learner_created: false
+  - name: src/main/res/values/colors.xml
+    visible: true
+    learner_created: false
+  - name: src/main/res/values/strings.xml
+    visible: true
+    learner_created: false
+  - name: src/main/res/values/themes.xml
+    visible: true
+    learner_created: false
+  - name: src/main/res/values-night/themes.xml
+    visible: true
+    learner_created: false
+  - name: src/main/AndroidManifest.xml
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: src/test/java/org/hyperskill/simplebankmanager/internals/screen/CalculateExchangeScreen.kt
+    visible: false
+    learner_created: false
+  - name: src/test/java/org/hyperskill/simplebankmanager/internals/screen/LoginScreen.kt
+    visible: false
+    learner_created: false
+  - name: src/test/java/org/hyperskill/simplebankmanager/internals/screen/PayBillsScreen.kt
+    visible: false
+    learner_created: false
+  - name: src/test/java/org/hyperskill/simplebankmanager/internals/screen/TransferFundsScreen.kt
+    visible: false
+    learner_created: false
+  - name: src/test/java/org/hyperskill/simplebankmanager/internals/screen/UserMenuScreen.kt
+    visible: false
+    learner_created: false
+  - name: src/test/java/org/hyperskill/simplebankmanager/internals/screen/ViewBalanceScreen.kt
+    visible: false
+    learner_created: false
+  - name: src/test/java/org/hyperskill/simplebankmanager/internals/AbstractUnitTest.kt
+    visible: false
+    learner_created: false
+  - name: src/test/java/org/hyperskill/simplebankmanager/internals/SimpleBankManagerUnitTest.kt
+    visible: false
+    learner_created: false
+  - name: src/test/java/org/hyperskill/simplebankmanager/Stage1UnitTest.kt
+    visible: false
+    learner_created: false
+  - name: src/test/java/org/hyperskill/simplebankmanager/Stage2UnitTest.kt
+    visible: false
+    learner_created: false
+  - name: src/test/java/org/hyperskill/simplebankmanager/Stage3UnitTest.kt
+    visible: false
+    learner_created: false
+  - name: src/test/java/org/hyperskill/simplebankmanager/Stage4UnitTest.kt
+    visible: false
+    learner_created: false
+  - name: src/test/java/org/hyperskill/simplebankmanager/Stage5UnitTest.kt
+    visible: false
+    learner_created: false
+  - name: hs_err_pid15872.log
+    visible: true
+    learner_created: true
+  - name: src/main/res/values-night-v21/themes.xml
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/simplebankmanager/UserMenuFragment.kt
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/simplebankmanager/LoginViewModel.kt
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/simplebankmanager/ViewBalanceFragment.kt
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/simplebankmanager/LoginFragment.kt
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/simplebankmanager/TransferFundsFragment.kt
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/simplebankmanager/CurrentBalanceSharedViewModel.kt
+    visible: true
+    learner_created: true
+  - name: src/main/res/navigation/nav_graph.xml
+    visible: true
+    learner_created: true
+  - name: src/main/res/layout/fragment_transfer_funds.xml
+    visible: true
+    learner_created: true
+  - name: hs_err_pid39504.log
+    visible: true
+    learner_created: true
+  - name: src/main/res/layout/fragment_view_balance.xml
+    visible: true
+    learner_created: true
+  - name: src/main/res/layout/fragment_user_menu.xml
+    visible: true
+    learner_created: true
+  - name: src/main/res/values-v21/themes.xml
+    visible: true
+    learner_created: true
+  - name: src/main/res/layout/fragment_login.xml
+    visible: true
+    learner_created: true
+  - name: hs_err_pid35412.log
+    visible: true
+    learner_created: true
+  - name: replay_pid39504.log
+    visible: true
+    learner_created: true
+  - name: replay_pid35412.log
+    visible: true
+    learner_created: true
+  - name: hs_err_pid24180.log
+    visible: true
+    learner_created: true
+  - name: hs_err_pid25920.log
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/simplebankmanager/CalculateExchangeFragment.kt
+    visible: true
+    learner_created: true
+  - name: src/main/res/layout/fragment_calculate_exchange.xml
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/simplebankmanager/CurrencyExchangeSharedViewModel.kt
+    visible: true
+    learner_created: true
+  - name: src/main/res/layout/fragment_pay_bills.xml
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/simplebankmanager/PayBillsFragment.kt
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/simplebankmanager/BillInfoSharedViewModel.kt
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/simplebankmanager/IncorrectBillCodeDialogFragment.kt
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/simplebankmanager/CorrectBillCodeDialogFragment.kt
+    visible: true
+    learner_created: true
+  - name: src/main/java/org/hyperskill/simplebankmanager/InsufficientFundDialogFragment.kt
+    visible: true
+    learner_created: true
+  - name: src/main/res/values/strings-buttons.xml
+    visible: true
+    learner_created: true
+  - name: src/main/res/values/strings-edit-text.xml
+    visible: true
+    learner_created: true
+  - name: src/main/res/values/strings-text-view.xml
+    visible: true
+    learner_created: true
+  - name: src/main/res/values/strings-login-bundle.xml
+    visible: true
+    learner_created: true
+  - name: src/main/res/values/strings-toast.xml
+    visible: true
+    learner_created: true
+  - name: src/main/res/values/string-array-spinner.xml
+    visible: true
+    learner_created: true
+  - name: src/main/res/values/strings-exception.xml
+    visible: true
+    learner_created: true
+  - name: src/main/res/values/strings-intent.xml
+    visible: true
+    learner_created: true
+  - name: src/main/res/values/strings-dialog.xml
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/27109#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Tue, 29 Oct 2024 07:02:40 UTC"
+record: 20

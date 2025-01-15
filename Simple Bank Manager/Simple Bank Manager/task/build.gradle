@@ -1,0 +1,47 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+
+android {
+    compileSdk 35
+
+    defaultConfig {
+        namespace = "org.hyperskill.simplebankmanager"
+        applicationId "org.hyperskill.simplebankmanager"
+        minSdkVersion 33/*hs.android.minSdkVersion*/
+        targetSdkVersion hs.android.targetSdkVersion
+        versionCode 1
+        versionName '1.0'
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+}
+dependencies {
+
+    def kotlinVersion = hs.android.kotlinVersion
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.20"/*$kotlinVersion*/
+
+    def coreKtx = hs.android.lib.coreKtx
+    implementation "androidx.core:core-ktx:$coreKtx"
+
+    def appCompat = hs.android.lib.appCompat
+    implementation "androidx.appcompat:appcompat:$appCompat"
+
+    def constraintLayout = hs.android.lib.constraintLayout
+    implementation "androidx.constraintlayout:constraintlayout:$constraintLayout"
+
+    def material = hs.android.lib.material
+    implementation "com.google.android.material:material:$material"
+
+    def navigationVersion = '2.4.2'
+    implementation "androidx.navigation:navigation-fragment-ktx:$navigationVersion"
+    implementation "androidx.navigation:navigation-ui-ktx:$navigationVersion"
+
+    implementation "androidx.fragment:fragment-ktx:1.5.1"
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1"
+    implementation "androidx.activity:activity-ktx:1.5.1" //activity view model
+    //implementation "androidx.activity:activity-compose:1.7.2" //Backward compatibility
+
+    //implementation(platform("org.jetbrains.kotlin:kotlin-bom:1.8.0"))
+}

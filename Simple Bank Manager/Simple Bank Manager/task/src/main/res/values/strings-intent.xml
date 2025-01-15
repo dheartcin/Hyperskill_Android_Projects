@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- String to retrieve extra data -->
+    <string name="balance_key">balance</string>
+    <string name="exchange_intent_map">exchangeMap</string>
+    <string name="pay_bill_intent_map">billInfo</string>
+</resources>

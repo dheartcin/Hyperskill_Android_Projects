@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- TextView in User Menu Fragment -->
+    <string name="welcome_message">Welcome %1s</string>
+
+    <!-- TextView in View Balance Fragment -->
+    <string name="balance">Balance:</string>
+    <string name="defaultBalance">$0.00</string>
+
+    <!--TextView in Calculate Exchange Fragment -->
+    <string name="exchange_convert_from">convert from</string>
+    <string name="exchange_convert_to">convert to</string>
+    <string name="exchange_text_view_result">%1$s%2$.2f = %3$s%4$.2f</string>
+
+</resources>
