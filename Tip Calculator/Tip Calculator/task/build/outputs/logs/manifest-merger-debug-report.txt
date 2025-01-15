@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.databinding:viewbinding:7.4.0] C:\Users\Violin\.gradle\caches\transforms-4\f316aa4aef8eca9a8d0941712302c238\transformed\jetified-viewbinding-7.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.test:core-ktx:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\5cc876796137e22df5140e3f033aa70c\transformed\jetified-core-ktx-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Violin\.gradle\caches\transforms-4\e9afaa16600a5fa1be59751552485eef\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\f1dbefbce4b5535e587ca3cab3891ae7\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Violin\.gradle\caches\transforms-4\1224e99723654603990ed7035755700e\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Violin\.gradle\caches\transforms-4\1afac3696eed5195b0c6809f58a2d3aa\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\44738c7d8e816a494b88d3d6a5a482c4\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Violin\.gradle\caches\transforms-4\30775fd88e25a11e965ea050fc418b2b\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Violin\.gradle\caches\transforms-4\8c253af04eb8b85162759206d613e583\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Violin\.gradle\caches\transforms-4\861b940531c768fc6834f6ef881af626\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\1c64ad961c60ca55d2b93545113a843e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\c8fe9f1431f4da1eaeaea88b696ec3ca\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\748022458f738aa240147974d596e53e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Violin\.gradle\caches\transforms-4\d8696ae2852e8b930a458b78a39d120a\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\05288b824dae524ead89499530701257\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\d0ea97d980bb1642a9969179dd836e0f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\984336a07d0b8de09a8c9dc1debd7fb2\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\1acd4128cb8572d59b53ff8bc85f8ca2\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\4cc2600073d705abddf5bddfa49472a7\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\1b4325031e3a6388bc2ce4a536d2b027\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\33d55e6bc21b471cc04c29cd86c45feb\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Violin\.gradle\caches\transforms-4\b180176cb2c6d1d463f32a8c5dabab90\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\5ae5d5bbefb0622528815e5660b0e8e8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Violin\.gradle\caches\transforms-4\e1f0bed5a20a035133cba5c815cd74d1\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\bd06c48fa63e2e4586a34e86050874a0\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Violin\.gradle\caches\transforms-4\06a9cc3bef1d15780d3b7f27895c67ab\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Violin\.gradle\caches\transforms-4\ea02bc25692b8d82842d3b2b3d5bb6ec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\88471a9cb6bef0926f0ecf0e066958a4\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:monitor:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\b792d78467748d020bb427c118ab0959\transformed\monitor-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Violin\.gradle\caches\transforms-4\2f87175215a2fb74e8c5a3132151d7ce\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\7d28fb8d79aac3993bae72a852d890f1\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Violin\.gradle\caches\transforms-4\ea87d1d93f1d9ac9bd156c138261d8a8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Violin\.gradle\caches\transforms-4\3f64c27ee8aa58887b174953e781353f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Violin\.gradle\caches\transforms-4\6a99237d6856e00c276b937541674bfe\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\bbafe863510d2b1f13471c101f6631c3\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\14d7500b5ed1d6a15ee4a41f39e7ae03\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\6872dd549ac7e6a3b0443bfd8407dd75\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\6d12be9d5e5873a7489e10f4678eddc4\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\f25071e4fc4f9718e9da615b99469f65\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:5:3-20:17
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\f1dbefbce4b5535e587ca3cab3891ae7\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\f1dbefbce4b5535e587ca3cab3891ae7\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Violin\.gradle\caches\transforms-4\1224e99723654603990ed7035755700e\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Violin\.gradle\caches\transforms-4\1224e99723654603990ed7035755700e\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Violin\.gradle\caches\transforms-4\b180176cb2c6d1d463f32a8c5dabab90\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Violin\.gradle\caches\transforms-4\b180176cb2c6d1d463f32a8c5dabab90\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Violin\.gradle\caches\transforms-4\2f87175215a2fb74e8c5a3132151d7ce\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Violin\.gradle\caches\transforms-4\2f87175215a2fb74e8c5a3132151d7ce\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Violin\.gradle\caches\transforms-4\b180176cb2c6d1d463f32a8c5dabab90\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:11:7-38
+activity#org.hyperskill.calculator.tip.MainActivity
+ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:12:5-19:16
+	android:exported
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:12:15-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:14:7-18:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:15:9-61
+	android:name
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:15:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:17:19-66
+uses-sdk
+INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.0] C:\Users\Violin\.gradle\caches\transforms-4\f316aa4aef8eca9a8d0941712302c238\transformed\jetified-viewbinding-7.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.0] C:\Users\Violin\.gradle\caches\transforms-4\f316aa4aef8eca9a8d0941712302c238\transformed\jetified-viewbinding-7.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.test:core-ktx:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\5cc876796137e22df5140e3f033aa70c\transformed\jetified-core-ktx-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core-ktx:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\5cc876796137e22df5140e3f033aa70c\transformed\jetified-core-ktx-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Violin\.gradle\caches\transforms-4\e9afaa16600a5fa1be59751552485eef\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Violin\.gradle\caches\transforms-4\e9afaa16600a5fa1be59751552485eef\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\f1dbefbce4b5535e587ca3cab3891ae7\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\f1dbefbce4b5535e587ca3cab3891ae7\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Violin\.gradle\caches\transforms-4\1224e99723654603990ed7035755700e\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Violin\.gradle\caches\transforms-4\1224e99723654603990ed7035755700e\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Violin\.gradle\caches\transforms-4\1afac3696eed5195b0c6809f58a2d3aa\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Violin\.gradle\caches\transforms-4\1afac3696eed5195b0c6809f58a2d3aa\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\44738c7d8e816a494b88d3d6a5a482c4\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\44738c7d8e816a494b88d3d6a5a482c4\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Violin\.gradle\caches\transforms-4\30775fd88e25a11e965ea050fc418b2b\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Violin\.gradle\caches\transforms-4\30775fd88e25a11e965ea050fc418b2b\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Violin\.gradle\caches\transforms-4\8c253af04eb8b85162759206d613e583\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Violin\.gradle\caches\transforms-4\8c253af04eb8b85162759206d613e583\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Violin\.gradle\caches\transforms-4\861b940531c768fc6834f6ef881af626\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Violin\.gradle\caches\transforms-4\861b940531c768fc6834f6ef881af626\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\1c64ad961c60ca55d2b93545113a843e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\1c64ad961c60ca55d2b93545113a843e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\c8fe9f1431f4da1eaeaea88b696ec3ca\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\c8fe9f1431f4da1eaeaea88b696ec3ca\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\748022458f738aa240147974d596e53e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\748022458f738aa240147974d596e53e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Violin\.gradle\caches\transforms-4\d8696ae2852e8b930a458b78a39d120a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Violin\.gradle\caches\transforms-4\d8696ae2852e8b930a458b78a39d120a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\05288b824dae524ead89499530701257\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\05288b824dae524ead89499530701257\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\d0ea97d980bb1642a9969179dd836e0f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\d0ea97d980bb1642a9969179dd836e0f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\984336a07d0b8de09a8c9dc1debd7fb2\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\984336a07d0b8de09a8c9dc1debd7fb2\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\1acd4128cb8572d59b53ff8bc85f8ca2\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\1acd4128cb8572d59b53ff8bc85f8ca2\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\4cc2600073d705abddf5bddfa49472a7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\4cc2600073d705abddf5bddfa49472a7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\1b4325031e3a6388bc2ce4a536d2b027\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\1b4325031e3a6388bc2ce4a536d2b027\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\33d55e6bc21b471cc04c29cd86c45feb\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\33d55e6bc21b471cc04c29cd86c45feb\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Violin\.gradle\caches\transforms-4\b180176cb2c6d1d463f32a8c5dabab90\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Violin\.gradle\caches\transforms-4\b180176cb2c6d1d463f32a8c5dabab90\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\5ae5d5bbefb0622528815e5660b0e8e8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\5ae5d5bbefb0622528815e5660b0e8e8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Violin\.gradle\caches\transforms-4\e1f0bed5a20a035133cba5c815cd74d1\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Violin\.gradle\caches\transforms-4\e1f0bed5a20a035133cba5c815cd74d1\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\bd06c48fa63e2e4586a34e86050874a0\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\bd06c48fa63e2e4586a34e86050874a0\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Violin\.gradle\caches\transforms-4\06a9cc3bef1d15780d3b7f27895c67ab\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Violin\.gradle\caches\transforms-4\06a9cc3bef1d15780d3b7f27895c67ab\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Violin\.gradle\caches\transforms-4\ea02bc25692b8d82842d3b2b3d5bb6ec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Violin\.gradle\caches\transforms-4\ea02bc25692b8d82842d3b2b3d5bb6ec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\88471a9cb6bef0926f0ecf0e066958a4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\88471a9cb6bef0926f0ecf0e066958a4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:monitor:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\b792d78467748d020bb427c118ab0959\transformed\monitor-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\b792d78467748d020bb427c118ab0959\transformed\monitor-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Violin\.gradle\caches\transforms-4\2f87175215a2fb74e8c5a3132151d7ce\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Violin\.gradle\caches\transforms-4\2f87175215a2fb74e8c5a3132151d7ce\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\7d28fb8d79aac3993bae72a852d890f1\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\7d28fb8d79aac3993bae72a852d890f1\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Violin\.gradle\caches\transforms-4\ea87d1d93f1d9ac9bd156c138261d8a8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Violin\.gradle\caches\transforms-4\ea87d1d93f1d9ac9bd156c138261d8a8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Violin\.gradle\caches\transforms-4\3f64c27ee8aa58887b174953e781353f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Violin\.gradle\caches\transforms-4\3f64c27ee8aa58887b174953e781353f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Violin\.gradle\caches\transforms-4\6a99237d6856e00c276b937541674bfe\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Violin\.gradle\caches\transforms-4\6a99237d6856e00c276b937541674bfe\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\bbafe863510d2b1f13471c101f6631c3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\bbafe863510d2b1f13471c101f6631c3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\14d7500b5ed1d6a15ee4a41f39e7ae03\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\14d7500b5ed1d6a15ee4a41f39e7ae03\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\6872dd549ac7e6a3b0443bfd8407dd75\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\6872dd549ac7e6a3b0443bfd8407dd75\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\6d12be9d5e5873a7489e10f4678eddc4\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Violin\.gradle\caches\transforms-4\6d12be9d5e5873a7489e10f4678eddc4\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\f25071e4fc4f9718e9da615b99469f65\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Violin\.gradle\caches\transforms-4\f25071e4fc4f9718e9da615b99469f65\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Violin\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:22-69
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:28:13-99
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Violin\.gradle\caches\transforms-4\e9c6fa51b7b914216c65eb242d8404b1\transformed\jetified-core-1.4.0\AndroidManifest.xml:44:13-103

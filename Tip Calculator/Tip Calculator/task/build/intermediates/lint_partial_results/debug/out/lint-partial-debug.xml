@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.4.0" type="partial_results">
+    <map id="VectorDrawableCompat">
+        <entry
+            name="ic_launcher_foreground"
+            boolean="false"/>
+        <entry
+            name="ic_launcher_background"
+            boolean="false"/>
+    </map>
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="color[colorPrimary(U),colorPrimaryDark(U),colorAccent(U),white(U)],drawable[underline_edittext(U),ic_launcher_foreground(U),ic_launcher_background(U),ic_launcher_foreground_1(R)],id[tip_percent_tv(U),tipCalculator(U),edit_text(U),linearLayout(D),seek_bar(U),bill_value_tv(U),tip_amount_tv(U)],layout[activity_main(U)],mipmap[ic_launcher_round(U),ic_launcher(U)],string[insertBill(U),app_name(U)],style[Theme_MaterialComponents_Light_DarkActionBar(R),AppTheme(U)];4^2,5^7,f^0^13^3^a^4^12^c^9^d^8^e,10^6^5,11^6^5,15^14^0^1^2;;;"/>
+    </map>
+
+</incidents>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.calculator.tip.Stage2UnitTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-07-05T19:45:09" hostname="SILVER" time="3.149">
+  <properties/>
+  <testcase name="test00_whenEditTextEmtpyThenTipAndBillTextViewsAreEmpty" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.356"/>
+  <testcase name="test01_whenEditTextIsZeroThenTipAndBillTextViewsAreEmpty" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.413"/>
+  <testcase name="test02_checkValueWithInitialTip" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.321"/>
+  <testcase name="test03_checkBothValueAndTipSetWithSeekBarSetLast" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.29"/>
+  <testcase name="test04_checkEditTextListenerLast" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.41"/>
+  <testcase name="test05_checkLargeValue" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.56"/>
+  <testcase name="test06_checkDecimalValue" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.269"/>
+  <testcase name="test07_checkClearingValue" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.275"/>
+  <testcase name="test08_checkZeroingValue" classname="org.hyperskill.calculator.tip.Stage2UnitTest" time="0.253"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

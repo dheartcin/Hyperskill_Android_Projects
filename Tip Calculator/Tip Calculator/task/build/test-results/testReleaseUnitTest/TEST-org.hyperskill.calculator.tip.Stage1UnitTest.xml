@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.calculator.tip.Stage1UnitTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-07-05T19:44:49" hostname="SILVER" time="19.963">
+  <properties/>
+  <testcase name="test00_checkEditText" classname="org.hyperskill.calculator.tip.Stage1UnitTest" time="18.512"/>
+  <testcase name="test01_checkSlider" classname="org.hyperskill.calculator.tip.Stage1UnitTest" time="0.442"/>
+  <testcase name="test02_checkBillValueTextView" classname="org.hyperskill.calculator.tip.Stage1UnitTest" time="0.324"/>
+  <testcase name="test03_checkTipPercentTextView" classname="org.hyperskill.calculator.tip.Stage1UnitTest" time="0.348"/>
+  <testcase name="test04_checkTipAmountTextView" classname="org.hyperskill.calculator.tip.Stage1UnitTest" time="0.332"/>
+  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+resources.arsc in APK 'C:\Users\Violin\.m2\repository\org\robolectric\android-all-instrumented\10-robolectric-5803371-i3\android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

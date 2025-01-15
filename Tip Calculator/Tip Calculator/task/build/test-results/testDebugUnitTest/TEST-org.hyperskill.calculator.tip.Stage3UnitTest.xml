@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.calculator.tip.Stage3UnitTest" tests="10" skipped="0" failures="2" errors="0" timestamp="2024-07-05T20:00:26" hostname="SILVER" time="23.769">
+  <properties/>
+  <testcase name="test00_whenEditTextEmtpyThenTextViewsAreEmpty" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="19.048"/>
+  <testcase name="test01_whenEditTextIsZeroThenTipAndBillTextViewsAreEmpty" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.589"/>
+  <testcase name="test02_checkValueWithInitialTip" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.33"/>
+  <testcase name="test03_checkBothValueAndTipSetWithSeekBarSetLast" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.896"/>
+  <testcase name="test04_checkEditTextListenerLast" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.886"/>
+  <testcase name="test05_checkLargeValue" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.368"/>
+  <testcase name="test06_checkDecimalValue" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.245"/>
+  <testcase name="test07_checkClearingValue" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.347">
+    <failure message="java.lang.AssertionError: When &quot;edit_text&quot; has been cleared View with id &quot;tip_amount_tv&quot; should be empty" type="java.lang.AssertionError">java.lang.AssertionError: When &quot;edit_text&quot; has been cleared View with id &quot;tip_amount_tv&quot; should be empty
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.hyperskill.calculator.tip.internals.TipCalculatorUnitTest.assertTextViewIsEmpty$Tip_Calculator_task_debug(TipCalculatorUnitTest.kt:47)
+	at org.hyperskill.calculator.tip.internals.screen.TipCalculatorScreen.asserTipAmountIsEmpty(TipCalculatorScreen.kt:125)
+	at org.hyperskill.calculator.tip.Stage3UnitTest$test07_checkClearingValue$1.invoke(Stage3UnitTest.kt:157)
+	at org.hyperskill.calculator.tip.Stage3UnitTest$test07_checkClearingValue$1.invoke(Stage3UnitTest.kt:149)
+	at org.hyperskill.calculator.tip.internals.AbstractUnitTest.testActivity(AbstractUnitTest.kt:84)
+	at org.hyperskill.calculator.tip.internals.AbstractUnitTest.testActivity$default(AbstractUnitTest.kt:75)
+	at org.hyperskill.calculator.tip.Stage3UnitTest.test07_checkClearingValue(Stage3UnitTest.kt:149)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:591)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:274)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:88)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+</failure>
+  </testcase>
+  <testcase name="test08_checkZeroingValue" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.317">
+    <failure message="java.lang.AssertionError: When &quot;edit_text&quot; has been zeroed View with id &quot;tip_amount_tv&quot; should be empty" type="java.lang.AssertionError">java.lang.AssertionError: When &quot;edit_text&quot; has been zeroed View with id &quot;tip_amount_tv&quot; should be empty
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.hyperskill.calculator.tip.internals.TipCalculatorUnitTest.assertTextViewIsEmpty$Tip_Calculator_task_debug(TipCalculatorUnitTest.kt:47)
+	at org.hyperskill.calculator.tip.internals.screen.TipCalculatorScreen.asserTipAmountIsEmpty(TipCalculatorScreen.kt:125)
+	at org.hyperskill.calculator.tip.Stage3UnitTest$test08_checkZeroingValue$1.invoke(Stage3UnitTest.kt:172)
+	at org.hyperskill.calculator.tip.Stage3UnitTest$test08_checkZeroingValue$1.invoke(Stage3UnitTest.kt:164)
+	at org.hyperskill.calculator.tip.internals.AbstractUnitTest.testActivity(AbstractUnitTest.kt:84)
+	at org.hyperskill.calculator.tip.internals.AbstractUnitTest.testActivity$default(AbstractUnitTest.kt:75)
+	at org.hyperskill.calculator.tip.Stage3UnitTest.test08_checkZeroingValue(Stage3UnitTest.kt:164)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:591)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:274)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:88)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+</failure>
+  </testcase>
+  <testcase name="test09_check101TipsForValue100" classname="org.hyperskill.calculator.tip.Stage3UnitTest" time="0.735"/>
+  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+resources.arsc in APK 'C:\Users\Violin\.m2\repository\org\robolectric\android-all-instrumented\10-robolectric-5803371-i3\android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
