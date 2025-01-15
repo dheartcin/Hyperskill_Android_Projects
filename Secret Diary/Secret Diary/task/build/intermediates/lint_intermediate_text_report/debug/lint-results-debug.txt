@@ -1,0 +1,173 @@
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\res\layout\activity_main.xml:61: Warning: Attribute android:inputType should not be used with <TextView>: Change element type to <EditText> ? [TextViewEdits]
+        android:inputType="textMultiLine"
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "TextViewEdits":
+   Using a <TextView> to input text is generally an error, you should be using
+   <EditText> instead.  EditText is a subclass of TextView, and some of the
+   editing support is provided by TextView, so it's possible to set some
+   input-related properties on a TextView. However, using a TextView along
+   with input attributes is usually a cut & paste error. To input text you
+   should be using <EditText>.
+
+   This check also checks subclasses of TextView, such as Button and CheckBox,
+   since these have the same issue: they should not be used with editable
+   attributes.
+
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\build.gradle:23: Warning: A newer version of androidx.test:core-ktx than 1.4.0 is available: 1.6.1 [GradleDependency]
+    implementation 'androidx.test:core-ktx:1.4.0'
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\build.gradle:25: Warning: A newer version of org.jetbrains.kotlin:kotlin-stdlib-jdk8 than 1.6.10 is available: 1.9.20 [GradleDependency]
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlinVersion"
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\build.gradle:28: Warning: A newer version of androidx.core:core-ktx than 1.6.0 is available: 1.13.1 [GradleDependency]
+    implementation "androidx.core:core-ktx:$coreKtx"
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\build.gradle:31: Warning: A newer version of androidx.appcompat:appcompat than 1.3.1 is available: 1.7.0 [GradleDependency]
+    implementation "androidx.appcompat:appcompat:$appCompat"
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\build.gradle:34: Warning: A newer version of androidx.constraintlayout:constraintlayout than 2.1.3 is available: 2.1.4 [GradleDependency]
+    implementation "androidx.constraintlayout:constraintlayout:$constraintLayout"
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\build.gradle:37: Warning: A newer version of com.google.android.material:material than 1.4.0 is available: 1.12.0 [GradleDependency]
+    implementation "com.google.android.material:material:$material"
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\build.gradle:39: Warning: A newer version of org.jetbrains.kotlinx:kotlinx-datetime than 0.3.2 is available: 0.4.0 [GradleDependency]
+    implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.3.2")
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "GradleDependency":
+   This detector looks for usages of libraries where the version you are using
+   is not the current stable release. Using older versions is fine, and there
+   are cases where you deliberately want to stick with an older version.
+   However, you may simply not be aware that a more recent version is
+   available, and that is what this lint check helps find.
+
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\res\values\strings.xml:11: Warning: The resource R.string.secretdiary appears to be unused [UnusedResources]
+    <string name="secretdiary">SecretDiary</string>
+            ~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "UnusedResources":
+   Unused resources make applications larger and slow down builds.
+
+
+   The unused resource check can ignore tests. If you want to include
+   resources that are only referenced from tests, consider packaging them in a
+   test source set instead.
+
+   You can include test sources in the unused resource check by setting the
+   system property lint.unused-resources.include-tests =true, and to exclude
+   them (usually for performance reasons), use
+   lint.unused-resources.exclude-tests =true.
+   ,
+
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\res\values\strings.xml:12: Warning: Replace "..." with ellipsis character (…, &#8230;) ? [TypographyEllipsis]
+    <string name="dearDiary">Dear Diary...</string>
+                             ~~~~~~~~~~~~~
+
+   Explanation for issues of type "TypographyEllipsis":
+   You can replace the string "..." with a dedicated ellipsis character,
+   ellipsis character (u2026, &#8230;). This can help make the text more
+   readable.
+
+   https://en.wikipedia.org/wiki/Ellipsis
+
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\res\mipmap-anydpi-v26\ic_launcher.xml:2: Warning: The application adaptive icon is missing a monochrome tag [MonochromeLauncherIcon]
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+^
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml:2: Warning: The application adaptive roundIcon is missing a monochrome tag [MonochromeLauncherIcon]
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+^
+
+   Explanation for issues of type "MonochromeLauncherIcon":
+   If android:roundIcon and android:icon are both in your manifest, you must
+   either remove the reference to android:roundIcon if it is not needed; or,
+   supply the monochrome icon in the drawable defined by the android:roundIcon
+   and android:icon attribute.
+
+   For example, if android:roundIcon and android:icon are both in the
+   manifest, a launcher might choose to use android:roundIcon over
+   android:icon to display the adaptive app icon. Therefore, your themed
+   application iconwill not show if your monochrome attribute is not also
+   specified in android:roundIcon.
+
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\res\layout\activity_main.xml:22: Warning: This text field does not specify an inputType [TextFields]
+    <EditText
+     ~~~~~~~~
+
+   Explanation for issues of type "TextFields":
+   Providing an inputType attribute on a text field improves usability because
+   depending on the data to be input, optimized keyboards can be shown to the
+   user (such as just digits and parentheses for a phone number). 
+
+   The lint detector also looks at the id of the view, and if the id offers a
+   hint of the purpose of the field (for example, the id contains the phrase
+   phone or email), then lint will also ensure that the inputType contains the
+   corresponding type attributes.
+
+   If you really want to keep the text field generic, you can suppress this
+   warning by setting inputType="text".
+
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\res\layout\activity_login.xml:24: Warning: Missing autofillHints attribute [Autofill]
+    <EditText
+     ~~~~~~~~
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\res\layout\activity_main.xml:22: Warning: Missing autofillHints attribute [Autofill]
+    <EditText
+     ~~~~~~~~
+
+   Explanation for issues of type "Autofill":
+   Specify an autofillHints attribute when targeting SDK version 26 or higher
+   or explicitly specify that the view is not important for autofill. Your app
+   can help an autofill service classify the data correctly by providing the
+   meaning of each view that could be autofillable, such as views representing
+   usernames, passwords, credit card fields, email addresses, etc.
+
+   The hints can have any value, but it is recommended to use predefined
+   values like 'username' for a username or 'creditCardNumber' for a credit
+   card number. For a list of all predefined autofill hint constants, see the
+   AUTOFILL_HINT_ constants in the View reference at
+   https://developer.android.com/reference/android/view/View.html.
+
+   You can mark a view unimportant for autofill by specifying an
+   importantForAutofill attribute on that view or a parent view. See
+   https://developer.android.com/reference/android/view/View.html#setImportant
+   ForAutofill(int).
+
+   https://developer.android.com/guide/topics/text/autofill.html
+
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\java\org\hyperskill\secretdiary\MainActivity.kt:52: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+                    tvDiary.setText(dateTimeToString(currentDateTime) + "\n" + newNote)
+                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\java\org\hyperskill\secretdiary\MainActivity.kt:52: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+                    tvDiary.setText(dateTimeToString(currentDateTime) + "\n" + newNote)
+                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\java\org\hyperskill\secretdiary\MainActivity.kt:55: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+                        dateTimeToString(currentDateTime) + "\n" + newNote + "\n\n" + tvDiary.getText()
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\java\org\hyperskill\secretdiary\MainActivity.kt:55: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+                        dateTimeToString(currentDateTime) + "\n" + newNote + "\n\n" + tvDiary.getText()
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\java\org\hyperskill\secretdiary\MainActivity.kt:55: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+                        dateTimeToString(currentDateTime) + "\n" + newNote + "\n\n" + tvDiary.getText()
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\java\org\hyperskill\secretdiary\MainActivity.kt:55: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+                        dateTimeToString(currentDateTime) + "\n" + newNote + "\n\n" + tvDiary.getText()
+                        ^
+C:\Users\Violin\AndroidStudioProjects\Secret Diary\Secret Diary\task\src\main\java\org\hyperskill\secretdiary\MainActivity.kt:55: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+                        dateTimeToString(currentDateTime) + "\n" + newNote + "\n\n" + tvDiary.getText()
+                                                                             ~~~~~~
+
+   Explanation for issues of type "SetTextI18n":
+   When calling TextView#setText
+   * Never call Number#toString() to format numbers; it will not handle
+   fraction separators and locale-specific digits properly. Consider using
+   String#format with proper format specifications (%d or %f) instead.
+   * Do not pass a string literal (e.g. "Hello") to display text. Hardcoded
+   text can not be properly translated to other languages. Consider using
+   Android resource strings instead.
+   * Do not build messages by concatenating text chunks. Such messages can not
+   be properly translated.
+
+   https://developer.android.com/guide/topics/resources/localization.html
+
+0 errors, 22 warnings
