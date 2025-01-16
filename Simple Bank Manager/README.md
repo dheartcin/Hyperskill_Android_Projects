@@ -1,5 +1,5 @@
 # Simple Bank Manager
-The Tip Calculator app calculates tip amount based on the bill amount and tip percentage. 
+The Simple Bank Manager app helps user manage bank account and pay bills. 
 
 ## Features
 - User can log into the bank account. (Default username and password given by Hyperskill are 'Lara' and '1234')
